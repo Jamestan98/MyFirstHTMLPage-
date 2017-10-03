@@ -1,0 +1,14 @@
+<HTML>
+<HEAD>
+<TITLE>
+MY FIRST AZURA PAGE 
+</TITLE>
+</HEAD>
+
+<BODY>
+<h1>
+This is a big heading 
+</h1>
+This is a test
+</BODY>
+</HTML>
